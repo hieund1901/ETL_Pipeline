@@ -11,7 +11,7 @@
 ## Installation
 - Clone the project from the Github repository:
 ```bash
-git clone https://github.com/shinie19/Recruitment_ETL_Pipeline.git
+git clone https://github.com/hieund1901/ETL_Pipeline
 ```
 - Start the Docker containers using Docker Compose:
 ```bash
